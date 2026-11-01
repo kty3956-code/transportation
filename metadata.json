@@ -1,0 +1,6 @@
+{
+  "name": "Korean Public Transportation Explained - 30s Short Video",
+  "description": "30-second vertical short-form video explainer for first-time travelers visiting South Korea with English voice-over, warm Lo-Fi Rhodes soundtrack, authentic Korean transit sound effects, and synchronized high-contrast subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
